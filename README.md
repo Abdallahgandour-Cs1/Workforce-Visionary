@@ -1,7 +1,7 @@
 PROJECT NAME:-
 Workforce Visionary
 --------------------------------------------------------------------------------------------------
-PROHECT OVERVIEW:- 
+PROJECT OVERVIEW:- 
 This project presents a complete end-to-end Human Resources analytics pipeline.
 The goal is to analyze employee data, extract actionable business insights, identify key workforce patterns, and build forecasting models to support data-driven HR decision-making.
 --------------------------------------------------------------------------------------------------
