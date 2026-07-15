@@ -14,11 +14,11 @@ By shifting HR management from reactive monitoring to predictive planning, this 
 * **Eng. Kareem Bakly**
 
 ### 👥 Team Members
-| **Mohamed Hazem Mohamed Elazazy** | Team Leader |  
-| **Abdallah Abdelrhman Gandour** |  
-| **Mahmoud Mohamed Abdelaziz Abdelsalam Hashim** |  
-| **Mohamed Labib Mohamed Fekry** |  
-| **Hatem Nabil Abdelazize Mohmoud** |  
+| **Mohamed Hazem Mohamed Elazazy** | Team Leader | -   Data Modeling
+| **Abdallah Abdelrhman Gandour** | - Power BI Dashboard Development
+| **Mahmoud Mohamed Abdelaziz Abdelsalam Hashim** | - Power BI Dashboard Development 
+| **Mohamed Labib Mohamed Fekry** | - Data Cleaning & Preprocessing (Python)
+| **Hatem Nabil Abdelazize Mohmoud** | - Excel Dashboard Development
 
 ---
 
